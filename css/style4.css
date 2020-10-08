@@ -1,0 +1,182 @@
+*{
+	font-family: 'Roboto', sans-serif;
+}
+.bg{
+	background-image: url(../img/bg2.png);
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.caption{
+	padding-bottom: 50PX;
+}
+
+ .caption h2{
+	color: #ffe600;
+}
+
+.caption .btn{
+	border: 1px solid #ffe600;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin-top: 80px;
+}
+.icon{
+	padding: 40px;
+}
+.icon i{
+	font-size: 30px;
+}
+.bar{
+	border-bottom: 1px solid #ffe600;
+	padding: 10px;
+}
+
+ul li{
+	padding-right: 10px;
+	padding-left: 10px;
+
+}
+.my-nav .active{
+	border: 1px solid #ffe600;
+}
+ul li:hover{
+	border: 1px solid #ffe600;
+}
+
+ul li a{
+	color: #a5a5a5;
+}
+.about{
+	padding-top: 50px;
+
+}
+.pabout{
+	color: #ffe600;
+	padding-top: 10px;
+}
+.abody{
+	padding-top: 70px;
+}
+.abody p{
+	color: #a0a0a0;
+	padding-top: 30px;
+}
+.about span{
+	border-right: 1px solid #ffe600;
+	padding: 10px;
+	color: #ffe600;
+	font-size: 25px;
+}
+.bg-2{
+	background-image: url(../img/bg7.jpg);
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	margin-top: 70px;
+}
+.bg-2 h4{
+	font-style: italic;
+}
+.port{
+	padding-top: 25px;
+}
+.port p{
+	color: #ffe600;
+	padding-top: 15px;
+}
+
+.img-hover{
+	position: relative;
+}
+
+.div-hover{
+	width: 320px;
+	height: 200px;
+	background-color: #ffeb33;
+	position: absolute;
+	top:48px;
+	left: 30px;
+	opacity: 0;
+	transition: 0.5s;
+}
+
+.div-hover h5{
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 70px;
+}
+.div-hover p{
+	color: #fff;
+}
+
+.img-hover:hover .div-hover{
+	opacity: 0.8;
+}
+
+.icon-2 i{
+	font-size: 30px;
+
+}
+
+.bg-3{
+	background-image: url(../img/bg5.jpg);
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	padding-top: 100px;
+	padding-bottom: 50px;
+	margin-top: 70px;
+}
+.bg-3 p{
+	color: #ffe600; 
+}
+.bg-3 .row{
+	padding-top: 70px;
+	padding: 15px;
+}
+.bg-3 .row img{
+	padding: 20px;
+}
+.contact{
+	margin-top: 80px;
+}
+.contact p{
+	color: #ffe600;
+	padding-top: 15px; 
+}
+.form-control{
+	background-color: #ffe600;
+}
+.footer{
+	height: 100px;
+	background-color: #131316;
+}
+.footer p{
+	color: #ffe600;
+	float: left; 
+	margin-top: 45px;
+}
+.ficon{
+	font-size: 15px;
+	padding-right: 30px;
+	margin-top: 45px;
+	float: right;
+	color: #fff;
+}
+.ficon i{
+	padding-right: 20px;
+}
+.contact .row{
+	padding-bottom: 50px;
+	
+}
+.contact .btn{
+	color: #ffe600;
+	background-color: #131316; 
+}
